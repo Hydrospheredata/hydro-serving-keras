@@ -1,0 +1,7 @@
+tensorflow>=1.7.0
+keras
+h5py>=2.8.0
+grpcio==1.9.1
+protobuf>=3.6.0
+hydro-serving-grpc==0.1.21
+docker==3.0.1
